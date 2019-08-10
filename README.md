@@ -8,5 +8,9 @@
 内部是两个HTML文件以及坐标转换的代码
 # ipynb文件
 这个是我的数据分析文件，更多解释可以点开文件头部观看
+(电脑内没有anaconda可以用这个路径打开
+https://nbviewer.jupyter.org/github/ishjjfun/chinese-python-position/blob/master/Python_job.ipynb)
 # 其他文件
 都是数据分析时生成的结果图片
+job_url是所有链接的文件
+detail是所有详情的文件
